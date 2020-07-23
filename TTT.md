@@ -17,7 +17,7 @@
 * Design Session: Present solution (15 mins) (In Group)
 * Design Session: Wrap-up (15 mins) (In Group)
 
-### Afternoon ()
+### Afternoon (3 hours 45 mins)
 
 * Exercise 1: Migrate the on-premises database to Azure SQL Database (45 mins)
 * Exercise 2: Post upgrade database enhancements (30 mins)
